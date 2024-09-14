@@ -9,3 +9,7 @@ This project is a simple multi-tab page designed to showcase information in an o
 - HTML: Provides the structure and content of the web page.
 - Bootstrap: Used for layout, navigation, and styling components.
 - Sass: For advanced, maintainable, and reusable styles.
+
+
+  
+![image](https://github.com/user-attachments/assets/3448c449-151a-42e2-abb4-403daf587498)
